@@ -1,4 +1,4 @@
 wiwi-dev.github.io
 ==================
 
-repository  for wiwi development projects.
+Repository for wiwi development projects. This will be the team’s portfolio site.
